@@ -15,7 +15,7 @@ According to [African legend](https://animals.sandiegozoo.org/animals/baobab), t
 
 ## What We Believe
 
-Like the Baobab, we create a strong and genuine ecosystem where knowledge is solid, without superficiality. Here, everyone collaborates, learns, and teaches authentically, building trust and real growth. We focus on being more than seeming, allowing knowledge to flourish with consistency.
+Like the Baobab, we create a strong and genuine ecosystem where knowledge is solid, without superficiality. Here, everyone collaborates, learns, and teaches authentically, building trust and real growth.
 
 ## Contribute
 
@@ -37,7 +37,7 @@ Uma [lenda africana](https://animals.sandiegozoo.org/animals/baobab) diz que os 
 
 ## No que acreditamos
 
-Assim como o Baobá, criamos um ecossistema forte e genuíno, onde o conhecimento é sólido, sem superficialidades. Aqui, todos colaboram, aprendem e ensinam de forma autêntica, gerando confiança e crescimento real. Nosso foco é mais ser do que parecer, para que o conhecimento floresça com consistência.
+Assim como o Baobá, criamos um ecossistema forte e genuíno, onde o conhecimento é sólido, sem superficialidades. Aqui, todos colaboram, aprendem e ensinam de forma autêntica, gerando confiança e crescimento real.
 
 ## Contribua
 
