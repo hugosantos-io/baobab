@@ -8,7 +8,7 @@ Baobab is a place designed to connect people through collaborative learning, ins
 
 The Baobab, known as the "[tree of life](https://en.wikipedia.org/wiki/Adansonia)", plays a crucial role in its ecosystem, providing shelter, food, and water for a variety of living beings. Its deep roots and wide-spreading branches symbolize interconnectedness and mutual support within a community.
 
-According to [African legend](https://www.smithsonianmag.com/science-nature/upside-down-trees-180962217/), the gods, angered by the Baobabs’ pride, uprooted them and replanted them upside down, with their roots in the air. This story reminds us of the importance of humility, especially in learning. No matter how much we know, there is always more to discover and grow. Actual knowledge comes not only from acquiring facts, but from understanding that learning never ends.
+According to [African legend](https://animals.sandiegozoo.org/animals/baobab), the gods, angered by the Baobabs’ pride, uprooted them and replanted them upside down, with their roots in the air. This story reminds us of the importance of humility, especially in learning. No matter how much we know, there is always more to discover and grow. Actual knowledge comes not only from acquiring facts, but from understanding that learning never ends.
 
 ## What We Believe
 
@@ -30,7 +30,7 @@ Baobab é uma plataforma projetada para conectar pessoas através do aprendizado
 
 O Baobá, conhecido como a "[árvore da vida](https://pt.wikipedia.org/wiki/Adansonia)", desempenha um papel crucial em seu ecossistema, oferecendo abrigo, alimento e água para uma variedade de seres vivos. Suas raízes profundas e seus galhos que se espalham amplamente simbolizam a interconectividade e o suporte mútuo entre os membros de uma comunidade.
 
-Uma [lenda africana](https://www.smithsonianmag.com/science-nature/upside-down-trees-180962217/) diz que os deuses, irritados com o orgulho das baobás, as arrancaram do solo e as plantaram de cabeça para baixo, com as raízes no ar. Essa história nos lembra da importância da humildade, especialmente no aprendizado. Por mais que saibamos, há sempre mais a descobrir, mais a crescer. O verdadeiro conhecimento vem não apenas da aquisição de fatos, mas da compreensão de que o aprendizado nunca termina.
+Uma [lenda africana](https://animals.sandiegozoo.org/animals/baobab) diz que os deuses, irritados com o orgulho das baobás, as arrancaram do solo e as plantaram de cabeça para baixo, com as raízes no ar. Essa história nos lembra da importância da humildade, especialmente no aprendizado. Por mais que saibamos, há sempre mais a descobrir, mais a crescer. O verdadeiro conhecimento vem não apenas da aquisição de fatos, mas da compreensão de que o aprendizado nunca termina.
 
 ## No que acreditamos
 
