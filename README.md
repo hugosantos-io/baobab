@@ -1,7 +1,6 @@
+# Baobab
 
 ![baobab-banner-small](https://github.com/user-attachments/assets/2301ae2a-9dd9-46d4-baf7-1e56061e9359)
-
-# Baobab
 
 A place connecting learning and community, inspired by the resilience, strength, and wisdom sharing of the "[tree of life](https://en.wikipedia.org/wiki/Adansonia)."
 
@@ -23,7 +22,7 @@ Join us on this learning journey. Please become part of our community, share you
 
 ---
 
-# Baobab (pt-br)
+## Baobab (pt-br)
 
 **Baobab**: Um local que conecta aprendizado e comunidade, inspirado na resiliência, força e compartilhamento de sabedoria da "[árvore da vida](https://pt.wikipedia.org/wiki/Adansonia)".
 
