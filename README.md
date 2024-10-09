@@ -2,7 +2,7 @@
 
 ![baobab-banner-small](https://github.com/user-attachments/assets/2301ae2a-9dd9-46d4-baf7-1e56061e9359)
 
-A place connecting learning and community, inspired by the resilience, strength, and wisdom sharing of the "[tree of life](https://en.wikipedia.org/wiki/Adansonia)."
+A place connecting learning and a community of software engineers and engineer managers inspired by the resilience, strength, and wisdom sharing of the "[tree of life](https://en.wikipedia.org/wiki/Adansonia)."
 
 Baobab is a place designed to connect people through collaborative learning, inspired by the majestic [Baobab tree](https://en.wikipedia.org/wiki/Adansonia), a symbol of strength, resilience, and knowledge sharing. Just as the Baobab sustains life around it, our community seeks to nurture the intellectual and personal growth of those participating, creating an ecosystem of continuous and collaborative learning.
 
@@ -24,7 +24,7 @@ Join us on this learning journey. Please become part of our community, share you
 
 ## Baobab (pt-br)
 
-**Baobab**: Um local que conecta aprendizado e comunidade, inspirado na resiliência, força e compartilhamento de sabedoria da "[árvore da vida](https://pt.wikipedia.org/wiki/Adansonia)".
+**Baobab**: Um local que conecta aprendizado e comunidade de engenheiros e gestores de software, inspirado na resiliência, força e compartilhamento de sabedoria da "[árvore da vida](https://pt.wikipedia.org/wiki/Adansonia)".
 
 Baobab é uma plataforma projetada para conectar pessoas através do aprendizado colaborativo, inspirada na majestosa [árvore Baobá](https://pt.wikipedia.org/wiki/Adansonia), símbolo de força, resiliência e compartilhamento de conhecimento. Assim como o Baobá sustenta a vida ao seu redor, nossa comunidade busca nutrir o crescimento intelectual e pessoal daqueles que participam, criando um ecossistema de aprendizado contínuo e colaborativo.
 
