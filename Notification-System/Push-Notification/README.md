@@ -99,3 +99,6 @@ webpush.sendNotification(subscription, notification, options);
 - [Codelab: client - Fonte: web.dev](https://web.dev/articles/push-notifications-client-codelab)
 - [Push API - Fonte: MDN](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 - [Notifications API - Fonte: MDN](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
+
+- [ServiceWorker Cookbook - Github](https://github.com/mdn/serviceworker-cookbook/)
+- [Push Notifications codelab - Github](https://github.com/GoogleChromeLabs/web-push-codelab)
