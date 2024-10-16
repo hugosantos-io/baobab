@@ -120,6 +120,10 @@ function initializeUI() {
   });
 }
 
+if ((new URLSearchParams(window.location.search)).get('page') === 'success') {
+  document.getElementById('content').innerHTML = 'You successfully opened page from WebPush! (this url was set in json data param)';
+}
+
 if ('serviceWorker' in navigator && 'PushManager' in window) {
   console.log('Service Worker and Push is supported');
 
