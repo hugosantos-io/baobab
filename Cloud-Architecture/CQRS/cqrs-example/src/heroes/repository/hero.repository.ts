@@ -4,11 +4,11 @@ import { userHero } from './fixtures/user';
 
 @Injectable()
 export class HeroRepository {
-  async findOneById(id: number): Promise<Hero> {
-    return userHero;
+  async findOneById(id: string): Promise<Hero> {
+    return userHero.find(o => o.getId(id) === id);
   }
 
   async findAll(): Promise<Hero[]> {
-    return [userHero];
+    return userHero;
   }
 }

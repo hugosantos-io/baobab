@@ -16,7 +16,7 @@ export class DropAncientItemHandler
 
     const { heroId, itemId } = command;
     const hero = this.publisher.mergeObjectContext(
-      await this.repository.findOneById(+heroId),
+      await this.repository.findOneById(heroId),
     );
     hero.addItem(itemId);
     hero.commit();

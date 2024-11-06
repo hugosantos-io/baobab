@@ -70,7 +70,7 @@ Serve para atender sistemas complexos, onde são claras as intenções do usuár
 
 -----
 
-| PRÓS            | CONTRAS                    |
+| PRÓS              | CONTRAS                  |
 |-------------------|--------------------------|
 | Maior Performance | Maior Complexidade       |
 | Escalabilidade    | Inconsistência de dados  |
@@ -98,17 +98,57 @@ O diagrama abaixo representa o conceito em sua raiz, exibindo a segregação dos
 
 ### Bases de dados distintas
 
-| ![CQRS 2](image.png)                            |
-| :---------------------------------------------: |
-| *Figura 2: Modelos e Bases de dados distintas*  |
+| ![CQRS 2](cqrs2.png)                           |
+| :--------------------------------------------: |
+| *Figura 2: Modelos e Bases de dados distintas* |
 
 ### Broker e handler de eventos
 
-| ![CQRS 3](image-1.png)                         |
-| :--------------------------------------------: |
+| ![CQRS 3](cqrs3.png)                        |
+| :-------------------------------------------: |
 | *Figura 3: Eventbus e consistência eventual*  |
 
 ## Instalação
+
+``` shell
+$ npm install
+
+added 400 packages, and audited 401 packages in 26s
+found 0 vulnerabilities
+```
+
+``` shell
+$ npm start
+
+[11:42:05 PM] Starting compilation in watch mode...
+[11:42:12 PM] Found 0 errors. Watching for file changes.
+
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [NestFactory] Starting Nest application...
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [InstanceLoader] ApplicationModule dependencies initialized +22ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [InstanceLoader] CqrsModule dependencies initialized +1ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [InstanceLoader] HeroesGameModule dependencies initialized +1ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [RoutesResolver] HeroesGameController {/hero}: +7ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [RouterExplorer] Mapped {/hero/:id/kill, POST} route +14ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [RouterExplorer] Mapped {/hero, GET} route +1ms
+[Nest] 2422  - 11/03/2024, 11:42:12 PM     LOG [NestApplication] Nest application successfully started +11ms
+Application is listening on port 3000.
+```
+
+### Testando o CQRS
+
+#### Commands
+
+``` HTTP
+POST http://localhost:3000/hero
+```
+
+#### Queries
+
+Listando todos os Heróis:
+
+``` HTTP
+GET http://localhost:3000/hero
+```
 
 ## Referências
 

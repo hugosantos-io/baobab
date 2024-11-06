@@ -15,7 +15,7 @@ export class KillDragonHandler implements ICommandHandler<KillDragonCommand> {
 
     const { heroId, dragonId } = command;
     const hero = this.publisher.mergeObjectContext(
-      await this.repository.findOneById(+heroId),
+      await this.repository.findOneById(heroId),
     );
     hero.killEnemy(dragonId);
     hero.commit();

@@ -5,7 +5,6 @@ import { EventHandlers } from './events/handlers';
 import { HeroesGameController } from './heroes.controller';
 import { QueryHandlers } from './queries/handlers';
 import { HeroRepository } from './repository/hero.repository';
-import { HeroesGameSagas } from './sagas/heroes.sagas';
 
 @Module({
   imports: [CqrsModule],
@@ -15,7 +14,6 @@ import { HeroesGameSagas } from './sagas/heroes.sagas';
     ...CommandHandlers,
     ...EventHandlers,
     ...QueryHandlers,
-    HeroesGameSagas,
   ],
 })
 export class HeroesGameModule {}
