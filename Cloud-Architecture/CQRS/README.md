@@ -138,16 +138,29 @@ Application is listening on port 3000.
 
 #### Commands
 
+##### Derrotando o inimigo
+
 ``` HTTP
-POST http://localhost:3000/hero
+POST http://localhost:3000/hero/3/kill
+content-type: application/json
+
+{
+  "dragonId": "456"
+}
 ```
 
 #### Queries
 
-Listando todos os Heróis:
+##### Listando todos os Heróis
 
 ``` HTTP
 GET http://localhost:3000/hero
+```
+
+##### Listando o Herói #6
+
+``` HTTP
+GET http://localhost:3000/hero/6
 ```
 
 ## Referências
