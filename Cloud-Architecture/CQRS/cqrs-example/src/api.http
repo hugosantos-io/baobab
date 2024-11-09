@@ -1,0 +1,12 @@
+GET http://localhost:3000/hero
+
+###
+GET http://localhost:3000/hero/6
+
+###
+POST http://localhost:3000/hero/3/kill
+content-type: application/json
+
+{
+  "dragonId": "456"
+}
